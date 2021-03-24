@@ -32,7 +32,7 @@ v.size() : vector의 size (vector가 가진 원소 수) 반환
 board.size()를 지정하지 않았을 경우, error 발생하며 프로그램이 실행되지 않는다.  
   
   
-***  
+```c++
 int solution(vector<vector<int>> board, vector<int> moves) {
     vector<vector<int>> dolls(board.size()); //board data trans
     vector<int> basket; //뽑은 인형 저장용 stack
@@ -57,3 +57,4 @@ int solution(vector<vector<int>> board, vector<int> moves) {
         dolls[d_point].pop_back();
     }
 }
+```
