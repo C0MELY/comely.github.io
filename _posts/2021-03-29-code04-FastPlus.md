@@ -23,10 +23,10 @@ last_modified_at: 2021-03-29T23:50:00-05:00
   아래와 같이 main 함수 시작할 때 작성해 주면 된다.  
   
   ```c++  
-  int main(){  
-    cin.tie(NULL);  //main 함수 안에 작성  
-    return 0;  
-  }  
+    int main(){  
+      cin.tie(NULL);  //main 함수 안에 작성  
+      return 0;  
+    }  
   ```  
   
 2. endl 대신 '\n'  
