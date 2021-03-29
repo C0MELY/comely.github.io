@@ -22,12 +22,12 @@ last_modified_at: 2021-03-29T23:50:00-05:00
   사용 방법은 간단하다.  
   아래와 같이 main 함수 시작할 때 작성해 주면 된다.  
   
-```c++  
+  ```c++  
   int main(){  
     cin.tie(NULL);  //main 함수 안에 작성  
     return 0;  
   }  
-```  
+  ```  
   
 2. endl 대신 '\n'  
   >endl은 개행문자를 출력할 뿐만 아니라 출력 버퍼를 비우는 역할까지 합니다.  
@@ -36,7 +36,7 @@ last_modified_at: 2021-03-29T23:50:00-05:00
   >그래서 endl을 '\n'으로 바꾸는 것만으로도 굉장한 시간 향상이 나타납니다.  
   >(출처 : https://www.acmicpc.net/board/view/22716)  
   
-3. 백준 알고리즘 10430번 - 나머지 (컴파일에러)  
+3. sync_with_stdio(false)
   >ios_base::sync_with_stdio(false)는 C와 C++의 버퍼를 분리합니다.  
   >이것을 사용하면 cin/cout이 더 이상 stdin/stdout과 맞춰 줄 필요가 없으므로 속도가 빨라집니다.  
   >단, 버퍼가 분리되었으므로 cin과 scanf, gets, getchar 등을 같이 사용하면 안 되고,  
