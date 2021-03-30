@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Comely Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nawon's Tech Diary"
+name                     : "Nawon Kim"
 description              : "Test Code Developer"
 url                      : "https://com-ely.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Nawon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "계속 나아가려는 나를 위한 포트폴리오"
+  bio              : "Test Code Developer"
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "skdnjskim@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -116,7 +116,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/na5nie/"
+      #url: "https://www.instagram.com/na5nie/"
 
 # Site Footer
 footer:
