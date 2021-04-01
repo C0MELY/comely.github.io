@@ -5,7 +5,8 @@ excerpt: "코딩 연습 1"
 categories:
   - CodingTest
 tags:
-  - stack
+  - Stack
+  - Vector
 last_modified_at: 2021-03-09T23:23:00-05:00
 ---
 
