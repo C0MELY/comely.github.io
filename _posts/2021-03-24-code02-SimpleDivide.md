@@ -7,6 +7,7 @@ categories:
 tags:
   - Basic
   - Decimal
+  - TypeConversion
 last_modified_at: 2021-03-24T23:23:00-05:00
 ---
 
