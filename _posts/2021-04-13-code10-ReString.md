@@ -21,7 +21,7 @@ last_modified_at: 2021-04-13T23:50:00-05:00
 출력값은 "AAABBBCCC"가 된다.  
   
 입력받은 문자열의 길이를 알고 싶어서 'strlen()' 함수를 사용했다.  
-함수 사용을 위해 필요한 header는 <cstring>이다.  
+함수 사용을 위해 필요한 header는 'cstring'이다.  
 
 ```cpp  
 #include <cstring>
