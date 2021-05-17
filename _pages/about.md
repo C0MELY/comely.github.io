@@ -6,7 +6,7 @@ layout: single
 
 Name : Nawon Kim  
 e-mail : skdnjskim@gmail.com  
-Description : Test Engineer @SK Hynix  
+Description : Test Engineer  
 Major : Computer Science & Engineering
   
 Have a Nice Day :D  
