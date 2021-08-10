@@ -1,6 +1,6 @@
 ---
 title:  "코딩연습15 - 택시 기하학 (맨해튼 거리)"
-excerpt: "코딩 연습 14"
+excerpt: "코딩 연습 15"
 
 categories:
   - CodingTest
